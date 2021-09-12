@@ -1,0 +1,8 @@
+{
+  "amenity": "cafe",
+    "brand": "Illy",
+    "brand:wikidata": "Q969999",                            // added
+    "brand:wikipedia": "it:Illycaffè",         // added
+    "name": "Illy Caffè"
+  }
+}
