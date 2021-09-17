@@ -7,6 +7,18 @@
     }
   },
   "items": [
+     {
+      "displayName": "Illy Shop",
+      "id": "",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Illy",
+        "brand:wikidata": "Q969999",
+        "brand:wikipedia": "it:Illycaffè",
+        "name": "Illy Shop",
+        "shop": "coffee"
+      }
+    },
     {
       "displayName": "Nespresso",
       "id": "nespresso-d0bfaf",
