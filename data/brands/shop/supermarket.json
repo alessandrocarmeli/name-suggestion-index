@@ -22,6 +22,17 @@
   },
   "items": [
     {
+      "displayName": "Tuš",
+      "locationSet": {"include": ["si"]},
+      "tags": {
+        "brand": "Tuš",
+        "brand:wikidata": "Q107183357",
+        "brand:wikipedia": "si:Tuš_(podjetje)",
+        "name": "Tuš",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "8 à Huit",
       "id": "8ahuit-c16b1c",
       "locationSet": {"include": ["fr"]},
