@@ -25,6 +25,18 @@
     }
   },
   "items": [
+     {
+      "displayName": "Illy Caffè",
+      "id": "",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Illy",
+        "brand:wikidata": "Q969999",
+        "brand:wikipedia": "it:Illycaffè",
+        "name": "Illy Caffè",
+        "amenity": "coffee"
+      }
+    },
     {
       "displayName": "% Arabica",
       "id": "arabica-e1ef51",
