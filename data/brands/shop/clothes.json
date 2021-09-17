@@ -10,6 +10,17 @@
     }
   },
   "items": [
+      {
+      "displayName": "Alcott",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Alcott",
+        "brand:wikidata": "Q97763617",
+        "brand:wikipedia": "it:Alcott (marchio)",
+        "name": "Alcott",
+        "shop": "clothes"
+      }
+    },
     {
       "displayName": "& Other Stories",
       "id": "andotherstories-2df354",
