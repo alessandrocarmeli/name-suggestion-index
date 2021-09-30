@@ -870,6 +870,7 @@
       "locationSet": {"include": ["it"]},
       "tags": {
         "brand": "Il Pane Quotidiano",
+        "brand:wikidata": "Q108748102"
         "name": "Il Pane Quotidiano",
         "shop": "bakery"
       }
