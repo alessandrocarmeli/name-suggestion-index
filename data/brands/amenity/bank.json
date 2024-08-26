@@ -21,6 +21,14 @@
     }
   },
   "items": [
+     {
+      "displayName": "ZKB",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "ZKB",
+        "name": "ZKB",
+      }
     {
       "displayName": "1st Security Bank",
       "id": "1stsecuritybank-181391",
